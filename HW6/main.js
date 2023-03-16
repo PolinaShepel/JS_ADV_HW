@@ -1,3 +1,6 @@
+//Поясніть своїми словами, як ви розумієте поняття асинхронності у Javascript
+// вона дозволяє виконувати код, не чекаючи завершення виконання інших операцій
+
 const findIpBtn = document.getElementById('find-ip-btn');
 const resultDiv = document.getElementById('result');
 
